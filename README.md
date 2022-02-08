@@ -1,2 +1,3 @@
 # Laboratorio-de-Processamento-Temporal
-Criar um ambientação sonora utilizando um dos sons do curso. Criar um efeito de intimidade com a fonte sonora mais destacada do som, mas que o local (ambiente) seja reverberante, com uma cauda (tempo de reverberação) de pelo menos 5 segundos.
+Creating a sound environment using one of the course sounds.
+Create an intimacy effect with the sound source most prominent in the sound, but the place (ambience) is reverberant, with a tail (reverberation time) of at least 5 seconds.
